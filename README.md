@@ -7,7 +7,6 @@
 To begin using this template, choose one of the following options to get started:
 * [Download the latest release on joomi Templates](https://github.com/joomimart-com/avantis-minimo/releases)
 * Clone the repo: `git clone https://github.com/joomimart-com/avantis-minimo.git`
-* Fork the repo
 
 ## Bugs and Issues
 
