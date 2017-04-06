@@ -1,6 +1,6 @@
 # [joomi Templates](https://templates.joomimart.com/) - [Avantis Minimo](https://templates.joomimart.com/demo/free/avantis-minimo/)
 
-[New Age](https://templates.joomimart.com/demo/free/avantis-minimo/) is a web app landing page theme for [Bootstrap 4](https://v4-alpha.getbootstrap.com/) created by [joomi Templates](https://templates.joomimart.com/).
+[Avantis Minimo](https://templates.joomimart.com/demo/free/avantis-minimo/) is a web app landing page theme for [Bootstrap 4](https://v4-alpha.getbootstrap.com/) created by [joomi Templates](https://templates.joomimart.com/).
 
 ## Getting Started
 
