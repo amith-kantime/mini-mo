@@ -14,4 +14,4 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 ## Copyright and License
 
-Copyright 2014-2017 joomiMart. Code released under the [MIT](https://github.com/joomimart-com/avantis-minimo/blob/LICENSE license.
+Copyright 2014-2017 joomiMart. Code released under the [MIT](https://github.com/joomimart-com/avantis-minimo/LICENSE) license.
