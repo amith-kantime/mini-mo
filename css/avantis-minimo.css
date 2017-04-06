@@ -226,7 +226,7 @@ button {cursor:pointer;}
 }
 .social-icons ul li a {
 	color:#fff;
-	background-color: #d9d9d9;
+	background-color: rgba(0,0,0,0.75);
 	height: 36px;
 	width: 36px;
 	line-height: 36px;
