@@ -1,20 +1,23 @@
 /*
-Theme Name: Avantis Minimo
-Theme URI: https://templates.joomimart.com/demo/free/avantis-minimo/
+Theme Name: joomi-Mini-Mo
+Theme URI: https://templates.joomimart.com/demo/free/joomi-mini-mo/
 Copyright 2014-2017 joomiMart
 Author: joomiTemplates
 Author URI: https://templates.joomimart.com/
 Description: Responsive Multipurpose One Page Bootstrap HTML Template
 Version: 1.0.1
-Licensed under MIT https://github.com/joomimart-com/avantis-minimo/blob/master/LICENSE
-Text Domain: Avantis Minimo
+Licensed under MIT https://github.com/joomimart-com/joomi-mini-mo/blob/master/LICENSE
+Text Domain: joomi-Mini-Mo
 */
 /* footer configuration */
 .fixed-footer .boxed-header .footer {max-width: 100%; margin: 0 10% 0 10%; -webkit-box-shadow: 0 0 20px rgba(0,0,0,0.15); box-shadow: 0 0 20px rgba(0,0,0,0.15); background-color: #fff;}
 .fixed-footer-none .footer {position: relative; top: auto;}
 .fixed-footer .footer {position: fixed; bottom: 0; right: 0; left: 0; z-index: 1030;}
+
 .footer-block .footer {display: block;}
 .footer-none .footer {display: none;}
+.footer-header-block .footer-top {display: block;}
+.footer-header-none .footer-top {display: none;}
 /* footer class */
 footer {padding-top:0rem;padding-bottom:0rem;}
 .copyright-text {display:block;}
