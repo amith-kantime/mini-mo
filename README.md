@@ -1,6 +1,6 @@
 # [joomi Templates](https://templates.joomimart.com/) - [joomi-Minimo](https://templates.joomimart.com/demo/free/joomi-minimo/)
 
-[Avantis Minimo](https://templates.joomimart.com/demo/free/joomi-minimo/) is a web app landing page theme for [Bootstrap 4](https://v4-alpha.getbootstrap.com/) created by [joomi Templates](https://templates.joomimart.com/).
+[joomi-Minimo](https://templates.joomimart.com/demo/free/joomi-minimo/) is a web app landing page theme for [Bootstrap 4](https://v4-alpha.getbootstrap.com/) created by [joomi Templates](https://templates.joomimart.com/).
 
 ## Getting Started
 
