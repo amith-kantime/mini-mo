@@ -1,6 +1,6 @@
-# [joomi Templates](https://templates.joomimart.com/) - [joomi-Mini-Mo](https://templates.joomimart.com/demo/free/joomi-mini-mo/)
+# [joomi Templates](https://templates.joomimart.com/) - [Demo: joomi-Mini-Mo](https://templates.joomimart.com/demo/free/joomi-mini-mo/demo.html)
 
-[joomi-Mini-Mo](https://templates.joomimart.com/demo/free/joomi-mini-mo/) is a web app landing page theme for [Bootstrap 4](https://v4-alpha.getbootstrap.com/) created by [joomi Templates](https://templates.joomimart.com/).
+[joomi-Mini-Mo](https://templates.joomimart.com/demo/free/joomi-mini-mo/demo.html) is a web app landing page theme for [Bootstrap 4](https://v4-alpha.getbootstrap.com/) created by [joomi Templates](https://templates.joomimart.com/).
 
 ## Getting Started
 
