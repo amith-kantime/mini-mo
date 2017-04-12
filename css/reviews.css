@@ -1,6 +1,6 @@
 /*
 Theme Name: joomi-Mini-Mo
-Theme URI: https://templates.joomimart.com/demo/free/joomi-mini-mo/
+Theme URI: https://templates.joomimart.com/demo/free/joomi-mini-mo/demo.html
 Copyright 2014-2017 joomiMart
 Author: joomiTemplates
 Author URI: https://templates.joomimart.com/

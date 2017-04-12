@@ -1,4 +1,4 @@
-/* 
+/*
 Theme Name: joomi-Mini-Mo
 Theme URI: https://templates.joomimart.com/demo/free/joomi-mini-mo/demo.html
 Copyright 2014-2017 joomiMart
@@ -9,6 +9,14 @@ Version: 1.0.1
 Licensed under MIT https://github.com/joomimart-com/joomi-mini-mo/blob/master/LICENSE
 Text Domain: joomi-Mini-Mo
 */
+
+pre {
+display: block;
+margin-top: 0;
+margin-bottom: 0;
+font-size: 100%;
+color: #292b2c;
+}
 
 /* sps */
 .sps {
