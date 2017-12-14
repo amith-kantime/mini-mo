@@ -1,4 +1,4 @@
-# mini-mo- [Demo](https://templates.joomimart.com/demo/free/joomi-mini-mo/demo.html)
+# Mini-Mo - [Demo](https://templates.joomimart.com/demo/free/joomi-mini-mo/demo.html)
 
 [Mini-Mo](https://templates.joomimart.com/demo/free/joomi-mini-mo/demo.html) is a web app landing page theme for [Bootstrap 4](https://v4-alpha.getbootstrap.com/) created by [Templates](https://templates.joomimart.com/).
 
@@ -16,3 +16,4 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 Copyright 2017 Pllano.com
 Code released under the [MIT](https://github.com/pllano/mini-mo/blob/master/LICENSE) license.
+ 
